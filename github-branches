@@ -1,0 +1,3 @@
+user@skillsnetwork:~# git branch -vv
+  bug-fix-typo 8e4f5g6 [origin/bug-fix-typo] Fix typographical error in README
+* main         8e4f5g6 [origin/main] Fix typographical error in README
