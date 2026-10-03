@@ -1,0 +1,9 @@
+user@skillsnetwork:~# git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+user@skillsnetwork:~# git merge bug-fix-typo
+Updating 7a1b3c2..8e4f5g6
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
