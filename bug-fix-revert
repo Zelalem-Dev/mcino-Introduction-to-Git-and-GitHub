@@ -14,6 +14,7 @@ curl -X GET https://github.com
     "label": "Zelalem-Dev:bug-fix-typo",
     "ref": "bug-fix-typo",
     "repo": {
+      "id": 123456789,
       "name": "mcino-Introduction-to-Git-and-GitHub",
       "full_name": "Zelalem-Dev/mcino-Introduction-to-Git-and-GitHub",
       "html_url": "https://github.com",
@@ -22,6 +23,12 @@ curl -X GET https://github.com
   },
   "base": {
     "label": "ibm-developer-skills-network:main",
-    "ref": "main"
+    "ref": "main",
+    "repo": {
+      "id": 8512345,
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com"
+    }
   }
 }
