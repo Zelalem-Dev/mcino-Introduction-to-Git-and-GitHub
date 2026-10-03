@@ -16,7 +16,7 @@ curl -X GET https://github.com
     "repo": {
       "name": "mcino-Introduction-to-Git-and-GitHub",
       "full_name": "Zelalem-Dev/mcino-Introduction-to-Git-and-GitHub",
-      "html_url": "https://github.com/Zelalem-Dev/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com",
       "fork": true
     }
   },
