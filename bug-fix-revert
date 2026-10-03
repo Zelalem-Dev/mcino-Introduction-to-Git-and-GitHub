@@ -1,0 +1,27 @@
+# Command Executed:
+curl -X GET https://github.com
+
+# Content of bug-fix-revert file:
+{
+  "id": 987654321,
+  "number": 1,
+  "state": "open",
+  "title": "Fixing typo in README",
+  "user": {
+    "login": "Zelalem-Dev"
+  },
+  "head": {
+    "label": "Zelalem-Dev:bug-fix-typo",
+    "ref": "bug-fix-typo",
+    "repo": {
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "Zelalem-Dev/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/Zelalem-Dev/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main"
+  }
+}
